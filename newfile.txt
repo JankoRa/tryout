@@ -1,7 +1,9 @@
+[GUI] Adding at beggining
 GUI adding to the begginning
 The NetBeans IDE provides support for the Git version control client. The IDE's Git support allows you to perform versioning tasks directly 
 from your project within the IDE. This document demonstrates how to perform basic versioning tasks in the IDE by guiding you through the
  standard workflow when using versioning software.
+[GUI] Adding at middle
 
 Git is a free and open source, distributed version control system designed to handle everything from small to very large projects with speed and
  efficiency. Every Git clone is a full-fledged repository with complete history and full revision tracking capabilities, not dependent on network
