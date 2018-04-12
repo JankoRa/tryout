@@ -1,3 +1,4 @@
+GUI adding to the begginning
 The NetBeans IDE provides support for the Git version control client. The IDE's Git support allows you to perform versioning tasks directly 
 from your project within the IDE. This document demonstrates how to perform basic versioning tasks in the IDE by guiding you through the
  standard workflow when using versioning software.
