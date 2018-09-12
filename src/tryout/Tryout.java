@@ -27,6 +27,7 @@ public class Tryout {
         } catch (InterruptedException ex) {
             Logger.getLogger(Tryout.class.getName()).log(Level.SEVERE, null, ex);
         }
+        System.out.println("Hello world");
         //Adding some code
         
     }
